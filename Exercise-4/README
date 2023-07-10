@@ -1,0 +1,2 @@
+The goal of this exercise is to create a window that plots timber prices obtained from www.forestresearch.gov.uk
+For this exercise the data is contained in treePrices.csv. The first line contains the names of the columns, all other lines comma-separated-values of dates, nominal (the absolute price in pounds) and real (the price adjusted to inflation relative to 30th September 2021) timber prices.
