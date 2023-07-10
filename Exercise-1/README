@@ -1,0 +1,1 @@
+The goal of this exercise is to create classes to print ASCII symbols that resemble trees. Each tree will be composed of a number of segments, and trees will be printed out by printing the segments on top of each other.
